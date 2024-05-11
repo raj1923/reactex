@@ -1,5 +1,5 @@
 import React from "react";
-import Final from "./useReducer/final/CRUD-useReducer"
+import Final from "./CRUD/CRUD-useReducer"
 
 function App() {
   return (
