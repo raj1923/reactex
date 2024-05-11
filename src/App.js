@@ -1,10 +1,10 @@
 import React from "react";
-import Parentcomponent from "./usecontext/final/parent-component";
+import Final from "./useReducer/final/CRUD-useReducer"
 
 function App() {
   return (
     <div className="App">
-      <Parentcomponent/>
+      <Final/>
     </div>
   );
 }
